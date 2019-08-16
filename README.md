@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install草拟吗
+npm install我好帅啊
 
 ```
 
